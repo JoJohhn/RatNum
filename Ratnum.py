@@ -90,6 +90,8 @@ if __name__ == '__main__':
     else:
         print(f'Test failed: n = {n}')
 
+
+
     print(RatNum(2, 0))
     print(RatNum(2, 0).is_nan())
     print(RatNum(-2, 0).is_negative())
